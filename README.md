@@ -21,7 +21,7 @@ Android (f/w 2.1+, API level 7+) on screen keyboard for darija languages.
 License
 -------
 
-    Copyright 2018 Menny Even-Danan
+    Copyright 2019 Manar Otawi
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
