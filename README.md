@@ -4,7 +4,8 @@ Android (f/w 2.1+, API level 7+) on screen keyboard for darija languages.
 
 # Features
  * All kinds of keyboards:
-  * supporting lots of languages via external packages. E.g., Darija (Moroccan, Algerian, Tunisian), English (QWERTY, Dvorak, AZERTY, Colemak, and Workman), Hebrew, Russian, Arabic, Lao, Bulgarian, Swiss, German, Swedish, Spanish, Catalan, Belarusian, Portuguese, Ukrainian and many more.
+  * supporting Darija (Moroccan, Algerian, Tunisian) out-of-the-box.
+  * supporting lots of languages via external packages. E.g., English (QWERTY, Dvorak, AZERTY, Colemak, and Workman), Hebrew, Russian, Arabic, Lao, Bulgarian, Swiss, German, Swedish, Spanish, Catalan, Belarusian, Portuguese, Ukrainian and many more.
   * special keyboard for text fields which require only numbers.
   * special keyboard for text fields which require email or URI addresses.
  * Physical keyboard is supported as-well.
